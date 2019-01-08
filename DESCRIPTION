@@ -18,7 +18,7 @@ Authors@R: c(person("Kelly", "Street", email = "street.kelly@gmail.com",
              person("Robrecht","Cannoodt", role = "ctb"))
 License: Artistic-2.0
 Depends:
-    R (>= 3.5),
+    R (>= 3.4),
     princurve (>= 2.0.4),
     stats
 Imports:
